@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xA021a5735376ED134EdCeD9D2c168a7a73f4FA56",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xA021a5735376ED134EdCeD9D2c168a7a73f4FA56",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 80001
+  },
+  "NFT_NAME": "TheMendelisedBulbas",
+  "SYMBOL": "BULBE",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 100000000000000000,
+  "DISPLAY_COST": 0.1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/themendelisedbulbas-v2",
+  "SHOW_BACKGROUND": true
+}
